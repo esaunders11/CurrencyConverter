@@ -1,3 +1,4 @@
+//Source code
 
 let rate1 = document.querySelector(".rate1");
 let rate2 = document.querySelector(".rate2");
